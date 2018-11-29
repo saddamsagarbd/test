@@ -1,1 +1,2 @@
-push commit
+in git what you did last operation command is $ git log
+commit command: $ git commit -m "write what you did?" file_name.ext
